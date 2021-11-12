@@ -1,3 +1,0 @@
-- Hi, I’m @zp41n
-- I’m interested in TI
-- I’m currently learning Java Script
